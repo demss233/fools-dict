@@ -15,16 +15,16 @@ Fools Dict is a command-line tool that serves as a database for new words. You c
 
 ## How to Use
 
-1. **Clone the Repository**:
+1. **Clone the Repository**:<br></br>
    ```bash
    git clone https://github.com/demss233/fools-dict/
    cd fools-dict
 
-2. **Initialize**:
+2. **Initialize**:<br></br>
    ```bash
    npm install
    npm install -g .
-   
+<br></br>  
 **Now you are good to go!**
 
 ![image](https://github.com/demss233/fools-dict/assets/84907785/a467de70-a666-444c-b6a2-6c25e91df963)
