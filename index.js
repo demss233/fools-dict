@@ -1,3 +1,4 @@
+#!/usr/bin/env node
 const connect = require("./utils/init");
 const path = require("path");
 const fs = require("fs");
