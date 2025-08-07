@@ -1,7 +1,7 @@
 # fools-dict
 
-A simple CLI tool to manage a list of words using a text file (`db.txt`).  
-Add words, remove them, or view the entire list — nothing fancy.
+A simple CLI tool to manage a personal word list, either locally in a text file (`db.txt`) or using MongoDB.  
+Add words, remove them, or view everything. Useful for writers, language learners, or just storing weird vocabulary you come across.
 
 ## Features
 
